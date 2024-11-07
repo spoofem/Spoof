@@ -11,9 +11,7 @@ Welcome to the Store Bot documentation. This guide will help you understand how 
 
 ## Basic Commands
 - `/start` - Start the bot and view main menu
-- `/help` - View help information
-- `/balance` - Check your balance
-- `/search` - Search for items
+- Use buttons For Search and everything rest
 
 ## Features Overview
 - 🔍 Search for items
