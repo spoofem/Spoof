@@ -2,7 +2,7 @@
 
 ## Search & Purchase
 1. **Searching**
-   - Use correct BIN format (,XXXXXX,)
+   - Use correct BIN format (,XXXXXX,) (,binhereinbetween,) if you search different format and checkout the data we wont be responsible for that
    - Check available quantity
    - View sample data format
    - Note daily search limits
