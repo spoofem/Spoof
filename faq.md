@@ -15,6 +15,7 @@ A: Contact admin through the support ticket system.
 
 **Q: What's the correct BIN format?**
 A: Use format `,XXXXXX,` (comma before and after).
+If you search different format and checkout the data we wont be responsible
 
 **Q: Why can't I search?**
 Common reasons:
